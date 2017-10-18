@@ -37,6 +37,8 @@
 000058161130     D  ONLEN                        10i 0
 000059161130      * Offset to the new record
 000060161130     D  NEWOFF                       10i 0
+000060161130     D  NEWOFF                       10i 0
+
 000061161130      * length of the new record
 000062161130     D  NEWLEN                       10i 0
 000063161130      * Offset to the new record null byte map
